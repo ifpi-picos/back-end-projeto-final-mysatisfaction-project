@@ -19,3 +19,5 @@ http://mysatisfaction.surge.sh/
 Back-end App: heroku
 https://mysatisfaction-project-back-en.herokuapp.com/
 #####################################################################
+Relatório técnico MySatisfacion: 
+https://docs.google.com/document/d/1k4O5uJk5b_8-CsHNl6fLqBNGIYNElLTBAlqoTneSIBM/edit #####################################################################
